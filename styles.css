@@ -3,7 +3,8 @@
     color:white;
 }
 .jumbotron {
-    background-image:url("https://www.syracuse.com/resizer/iBXWvtjuENnpvVdU_W_T0v7Lq6E=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/3NBOLTB2PBF23BESGU34XLFCGY.jpg");
+    background-image:url("otto.jpeg");
+    background-repeat:none;
     color:white;
 }
 
